@@ -1,3 +1,3 @@
-![NAMCROSOFT UI]("demo.png")
+![NAMCROSOFT UI](demo.png)
 <br>
-![NAMCROSOFT UI]("demo1.png")
+![NAMCROSOFT UI](demo1.png)
